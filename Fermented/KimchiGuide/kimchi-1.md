@@ -20,7 +20,7 @@ Some anecdote about kimchi
 2. Put cubed radish in its own bowl of salt water.
 3. Let these sit in salt water for 30min - 1hr, tossing and mixing by hand periodically.
 
-[ Next Step >> ](./)
+[ << Back ](./kimchi.md) | [Fermented Menu ](../main.md) | [ Next Step >> ](./)
 
 ---
 
@@ -31,4 +31,4 @@ Some anecdote about kimchi
         Also note: much of this daikon will be made into a separate batch of cubed radish kimchi.
 
 ---
-[<< Back to Fermented Menu ](../main.md) | [ Archive ](../../README.md)
+[<< Back to Archive ](../../README.md)
