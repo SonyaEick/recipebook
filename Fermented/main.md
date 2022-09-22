@@ -1,11 +1,3 @@
----
-
-title: Fermented Foods
-
----
-
-
-
 Fermented stuffs
 
 ---

@@ -1,8 +1,3 @@
----
-title: "Breads"
-hide_title: True 
-
----
 
 # Breads
 

@@ -1,11 +1,4 @@
 
----
-
-title: The Recipe Book of Sonya Eick
-sidebar_label: Table of Contents
-
----
-
 # Sonya Eick's Recipe Book
 
 A compilation of Sonya Curated recipes.
