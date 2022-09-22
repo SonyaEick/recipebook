@@ -1,4 +1,6 @@
 
+[<< Back to Main Archive](../README.md)
+
 ---
 
 # Book Reviews
@@ -75,7 +77,7 @@ Be Proactive
     - it doesnt happen over night. have the courage to act upon your conscience; that is the essence of proactivity.
 
   
-### Habit 2: write the program
+### Habit 2: Write the program
 
 Have the end in mind.
 
@@ -99,7 +101,7 @@ Have the end in mind.
     - success: shared vision.
     - because every decision will be influenced by the main vision of each person. have a continuing sense of guidance.
 - create powerful mission statements
-  - 
+  - blah
 
 
 
