@@ -1,8 +1,7 @@
 
 # Sonya Eick's Recipe Book
 
-A compilation of Sonya Curated recipes.
-
+A compilation of Sonya-curated recipes.
 I have these set up in classic tutorial/documentation style.
 
 
