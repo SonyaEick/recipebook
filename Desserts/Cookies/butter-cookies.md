@@ -26,11 +26,11 @@ about 5 minutes.
 3. Add 6 cups of flour, one cup at a time to fully incorporate.
 
 ## Bake: 
-### _**325 degrees for 20-25 minutes**_
+### _**325 degrees for 20-28 minutes**_
 4. Preheat oven to 325.
 5. Get a pan full of granualted/sanding sugar and roll cookie logs onto the sugar to coat the outside.
 6. Slice the logs into thin cookie slices and place them on a silicone mat or parchment paper.
-7. Bake for 20-25 minutes or until edges are golden, but center is a light color.
+7. Bake for 20-28 minutes or until edges are golden, but center is a light color.
 8. Cool for about 10 minutes before serving so cookies can crisp up.
 
 Done.
@@ -48,6 +48,8 @@ and mix it as cold crumbs with a few teaspoons of heated milk.
 out of that thing. I really gave it a good try. I ended up rolling them into logs and then rolling the logs
 in granulated/sanding sugar.
 
+
+- Adaptation coming soon: Mantecaditos (Puerto Rican shortbread with almond extract & a marachino cherry center.)
 
 ---
 [<< Back to Desserts Menu ](../main.md) | [ Archive ](../../README.md)

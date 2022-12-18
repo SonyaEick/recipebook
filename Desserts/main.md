@@ -3,9 +3,9 @@ Desserts
 ---
 
 
-| Cookies                                              | Description                                  |
-|------------------------------------------------------|----------------------------------------------|
-| [ Danish Butter Cookies ](Cookies/butter-cookies.md) | Cookies made with a ton of butter and sugar. |
+| Cookies                                              | Description                                             |
+|------------------------------------------------------|---------------------------------------------------------|
+| [ Danish Butter Cookies ](Cookies/butter-cookies.md) | Shortbread cookies made with a ton of butter and sugar. |
 
 
 
