@@ -11,6 +11,7 @@ I have these set up in classic tutorial/documentation style.
 |----------------------------------|--------------------------------------------------------------------------------------------------------------------|
 | [ Bread ](Bread/main.md)         | Different breads I know how to make, ranging from sourdough to rolls or easy yeast breads. Dessert breads as well. |
 | [ Fermented ](Fermented/main.md) | Fermented foods such as kimchi, Garret's pickles & hot sauce, lemon syrup, and whatever else.                      |
+| [ Desserts ](Desserts/main.md)   | Cookies, pies, ice cream, etc.                                                                                     |
 
 
 ### Other pages of little concern:

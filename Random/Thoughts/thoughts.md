@@ -5,8 +5,7 @@
 
 # Random Musings
 
-Hey, welcome to my diary. This is real nosey of you.
-FYI, I am tracking IPs that visit this page. [(1)](#1---haha-jk)
+Hey, welcome to my diary [(1)](#1---this-is-a-footnote). 
 
 ---
 
@@ -28,10 +27,22 @@ THUR 22
 - need to plan for kimchi party.
 - today is auspicious.
 
+## December
 
+FRI 16
+- I'm on a new mac so I have to get it all set up.
+- It's been a while since I've done this so, it's taking me a second to get this thing set up
+- I did see something about how you can add react to github pages, which is appealing. I think I'll give that a try since its free.
+- I cant remember if github pages allows you to start up a server but I suppose it does not. lol. I guess we just push.
+- Things are feeling like theyre linking up in a positive way. I guess it will be positive no matter what.
+
+SUN 18
+- Holiday cookie party is today; I'm making [danish butter cookies](../../Desserts/Cookies/butter-cookies.md).
+- Butter cookies are taking a while, so I may as well update recipes and whatnot.
+- Been looking for a house for my mom but not wanting to pay for it. really annoying process.
 
 ---
 
 ### Footnotes:
 
-#### 1 - haha, jk.
+#### 1 - this is a footnote
