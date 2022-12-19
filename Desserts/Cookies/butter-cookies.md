@@ -43,7 +43,7 @@ Done.
 butter. I chopped it up and microwaved it for 30 seconds at a time until it was soft enough without melting.
 
 
-- _Mistake 2_: I put this mix into the fridge to melt overnight but when I pulled it out in the morning it was super hard.
+- _Mistake 2_: I put this mix into the fridge for the flavors to meld overnight but when I pulled it out in the morning it was super hard.
 I had to find a way to soften this dough & bake within 4 hours for a cookie party. What I had to do was break it apart
 and mix it as cold crumbs with a few teaspoons of heated milk.
 
