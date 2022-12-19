@@ -41,9 +41,13 @@ Done.
 
 - _Mistake 1_: I didn't thaw my butter ahead of time so I had a few sticks of fridge-cold butter and a few freezer-cold 
 butter. I chopped it up and microwaved it for 30 seconds at a time until it was soft enough without melting.
+
+
 - _Mistake 2_: I put this mix into the fridge to melt overnight but when I pulled it out in the morning it was super hard.
 I had to find a way to soften this dough & bake within 4 hours for a cookie party. What I had to do was break it apart
 and mix it as cold crumbs with a few teaspoons of heated milk.
+
+
 - _Mistake 3_: I tried to pipe these cookies through a piping bag and there was no friggin way it was going to come
 out of that thing. I really gave it a good try. I ended up rolling them into logs and then rolling the logs
 in granulated/sanding sugar.
